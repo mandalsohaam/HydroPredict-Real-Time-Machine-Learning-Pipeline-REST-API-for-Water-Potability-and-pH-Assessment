@@ -1,0 +1,7 @@
+hydro-predict/
+│
+├── app.py                 # Streamlit Frontend Web App
+├── api.py                 # FastAPI REST API Backend
+├── train_model.py         # Data Generation, Preprocessing & ML Model Training
+├── requirements.txt       # Project Dependencies
+└── README.md              # Documentation for GitHub
